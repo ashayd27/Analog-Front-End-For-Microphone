@@ -15,7 +15,7 @@ Low-frequency hum (especially at **50 Hz** from AC mains) pollutes microphone si
 - **Twin-T Passive Notch Filter**: Simple, cost-effective topology  
 - **Op-Amp Based Active Notch Filter**: Combination of a low pass and high pass filter in parallel 
 - **Simulation in LTSpice** with FFT analysis and frequency response plots  
-- Preserves speech signal while suppressing low-frequency hum (~32 dB)
+- Preserves speech signal while suppressing low-frequency hum (~39 dB)
 
 ---
 
